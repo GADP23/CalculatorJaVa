@@ -4,6 +4,7 @@ import java.awt.EventQueue;
 import javax.swing.*;
 import java.awt.Color;
 import java.awt.SystemColor;
+import java.awt.Window.Type;
 
 public class Calculatorui {
 
